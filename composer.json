@@ -1,0 +1,17 @@
+{
+    "name": "algis/php_oop",
+    "description": "php oop homework",
+    "authors": [
+        {
+            "name": "algyz200",
+            "email": "algirdas.toleikis@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Nfq\\Academy\\": "src/"
+        }
+    }
+}
